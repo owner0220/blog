@@ -22,7 +22,7 @@ name                     : "나나"
 description              : "An amazing website."
 url                      : "https://owner0220.github.io"
 baseurl                  : "/new"
-repository               : "mmistakes/minimal-mistakes"
+#repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
